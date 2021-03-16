@@ -662,6 +662,6 @@ interface MenuConstants
     final String helpHelpTopic="Help Topic";
     final String helpAboutNotepad="About Notepad";
 
-    final String aboutText="This Notepad is developed by David of SK studios " +"\n" +
-            "                    This is licensed under SKS license " + "\n" + "© 2020 SK Studios Inc.";
+    final String aboutText="This Notepad is developed by Karthik of SK studios " +"\n" +
+            "                    This is licensed under MIT license " + "\n" + "© 2021 SK Studios ";
 }  
